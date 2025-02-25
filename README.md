@@ -1,16 +1,16 @@
-## Hi there 👋
+![logo](https://github.com/user-attachments/assets/9604624e-dbaa-47ba-8fe6-f78eaca3ef41)
 
-<!--
-**TitoJuanan/TitoJuanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi chum 🤘🤖
 
-Here are some ideas to get you started:
+- 🔭 Working on Biblio project 📚
+- 🌱 Learning:
+  - Ethical hacking
+  - Amazon Web Services
+  - web development
+  - Android application development
+  
+- 📫 How to reach me: Send me a mail to juanantoniorc.work@protonmail.com starting the subject with 'Work:' if it's job related or 'Contact:' if not
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitoJuanan&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoJuanan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
